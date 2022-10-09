@@ -18,16 +18,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rodrigo77777/react-native-beacons-manager.git"
+    "url": "git+https://github.com/c4882488/react-native-beacons-manager.git"
   },
   "typescript": {
     "definition": "typings/index.d.ts"
   },
   "types": "typings/index.d.ts",
   "bugs": {
-    "url": "https://github.com/Rodrigo77777/react-native-beacons-manager/issues"
+    "url": "https://github.com/c4882488/react-native-beacons-manager/issues"
   },
-  "homepage": "https://github.com/Rodrigo77777/react-native-beacons-manager#readme",
+  "homepage": "https://github.com/c4882488/react-native-beacons-manager#readme",
   "main": "index.js",
   "directories": {
     "example": "examples",
