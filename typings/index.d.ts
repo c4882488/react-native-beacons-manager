@@ -1,4 +1,4 @@
-declare module '@rodrigo77777/react-native-beacons-manager' {
+declare module '@c4882488/react-native-beacons-manager' {
 
   class Beacons {
     ///////////////////////////////////////////////////////
